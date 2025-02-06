@@ -3,13 +3,13 @@
 Testing with storing values, latches, flipflops, etc. 
 
 
-sr latch
+sr latch,</br>
 sr latch w enable
-
-d latch
+</br>
+d latch,</br>
 d latch w enable
-
-d flip flop
+</br>
+d flip flop,</br>
 d flip flop with enable
 
 
