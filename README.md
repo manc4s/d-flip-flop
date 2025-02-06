@@ -2,7 +2,7 @@
 
 Testing with storing values, latches, flipflops, etc. 
 
-
+https://www.cs.ucr.edu/~ehwang/courses/cs120b/flipflops.pdf
 sr latch,</br>
 sr latch w enable
 </br>
