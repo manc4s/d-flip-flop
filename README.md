@@ -1,5 +1,22 @@
-# d-flip-flop
-Testing with storing values, 1 bit registers with bus tests. 
+# Latches and Flip Flops
+
+Testing with storing values, latches, flipflops, etc. 
+
+
+sr latch
+sr latch w enable
+
+d latch
+d latch w enable
+
+d flip flop
+d flip flop with enable
+
+
+
+
+
+
 
 
 
